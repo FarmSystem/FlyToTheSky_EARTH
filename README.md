@@ -23,7 +23,7 @@ qr 코드로 프로세서를 만들 때 해당 qr 이미지를 분산형 데이�
 거래 요청을 QR코드로 변환해주는 EIP-681을 사용해 편의성을 높였다.
 
 ## Tech Stack
-- <img src="https://img.shields.io/badge/Next.js-#000000?style=for-the-badge&logo=Next.js&logoColor=white">
+- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 - <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 - Typescript
 - TailwindCss
