@@ -26,16 +26,11 @@ qr 코드로 프로세서를 만들 때 해당 qr 이미지를 분산형 데이�
 - <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 - <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 - <img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white">
-- <img src="https://img.shields.io/badge/ethers.js-3178C6?style=for-the-badge&logo=ethers.js&logoColor=white">
+- <img src="https://img.shields.io/badge/ethers.js-1B1BAD?style=for-the-badge&logo=ethers.js&logoColor=white">
 - <img src="https://img.shields.io/badge/NFC API-002E5F?style=for-the-badge&logo=NFC&logoColor=white">
-- <img src="https://img.shields.io/badge/Cometh-3178C6?style=for-the-badge&logo=TypeSrcript&logoColor=white">
-- <img src="https://img.shields.io/badge/Tableland-3178C6?style=for-the-badge&logo=TypeSrcript&logoColor=white">
-- Typescript
-- TailwindCss
-- ethers.js
-- Nfc API
-- Cometh
-- Tableland
+- <img src="https://img.shields.io/badge/Cometh-11116D?style=for-the-badge&logo=TypeSrcript&logoColor=white">
+- <img src="https://img.shields.io/badge/Tableland-000000?style=for-the-badge&logo=TypeSrcript&logoColor=white">
+
 
 
 ## Start
