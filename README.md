@@ -1,22 +1,22 @@
 ![nebula](https://github.com/ETHGlobal-Online-ChainWave/Nebula/assets/59263564/0d16fbd6-351b-4f98-8144-02c1dc33b6a1)
 
-# NeBula Overview
+# EARTH Overview
 https://youtu.be/BiPv0tLxyPM?si=PbNzWvl_Dlev0l_w
 
-We have developed a system that leverages NFC for wallet creation and login, as well as QR codes for transaction generation and approval. Both NFC tagging and QR codes offer convenient solutions for mobile users, and we've integrated these technologies into the blockchain.
+NFC를 활용하여 지갑을 만들고 로그인하는 시스템을 개발하였고, 거래 생성과 승인을 위한 QR코드도 개발하였다. NFC 태깅과 QR코드 모두 모바일 사용자에게 편리한 솔루션을 제공하고 있으며, 이러한 기술들을 블록체인에 접목시켰다.
 
-The reason behind our creation of NFC card wallets stems from the shortcomings of existing wallet systems. Custodial wallets often suffer from the Trusted Entity problem, and Key Management Service (KMS) wallets share similar issues. Mobile wallets typically require app installation and setup, and hardware wallets can be expensive and have limited token support.
+근거리 무선 통신 카드 지갑을 만든 배경은 기존 지갑 시스템의 단점에서 비롯된다. 관리 지갑은 종종 신뢰할 수 있는 실체(Trusted Entity) 문제로 고통 받고, 키 관리 서비스(KMS) 지갑도 비슷한 문제를 공유한다. 모바일 지갑은 일반적으로 앱 설치와 설정이 필요하며, 하드웨어 지갑은 비싸고 토큰 지원이 제한적일 수 있다.
 
-With our NFC card wallet system, anyone can create a wallet using their readily available NFC credit or debit cards. This system facilitates seamless offline payments using NFC cards, making in-store purchases and participation in offline events more straightforward.
+누구나 쉽게 구할 수 있는 NFC 신용카드나 직불카드를 사용하여 지갑을 만들 수 있다. 이 시스템은 NFC 카드를 사용한 오프라인 결제를 원활하게 하여 매장 내 구매와 오프라인 행사 참여를 더욱 쉽게 해준다.
 
-Furthermore, when it comes to generating and approving transactions, we've streamlined the process by using QR codes, reducing the user's manual effort. This feature can prove to be highly valuable for real-world retail purchases, offline events, and various situations where QR codes are employed.
+또한 거래를 생성하고 승인하는 데 있어 QR 코드를 사용하여 사용자의 수작업을 줄여 프로세스를 간소화했다. 이 기능은 실제 소매 구매, 오프라인 이벤트 및 QR 코드가 사용되는 다양한 상황에서 매우 유용하다는 것을 입증할 수 있다.
 
 ## Introducing Our Tech
-The main points are NFC, QRCODE, Cometh SDK, Tableland, and EIP 681.
-Cometh allows first time users to adapt web3 for easy wallet creation and processing processor with zero -gas -fee.
-Create a wallet and log in by tagging NFC using NFC web api.
-When creating a processor with a qr code, the corresponding qr image was saved in a decentralized database table to pull out the corresponding qr transaction.
-Convenience has been increased by using EIP-681, which converts transaction requests into QR codes.
+주요 포인트는 NFC, QRCODE, Cometh SDK, Tableland, EIP 681이다.
+Cometh는 처음 사용자가 web3를 적용하여 가스비 제로로 지갑을 쉽게 만들고 처리할 수 있도록 한다.
+NFC 웹 api를 이용하여 NFC 태그를 하여 지갑을 생성하고 로그인한다.
+qr 코드로 프로세서를 만들 때 해당 qr 이미지를 분산형 데이터베이스 테이블에 저장하여 해당 qr 트랜잭션을 빼냈다.
+거래 요청을 QR코드로 변환해주는 EIP-681을 사용해 편의성을 높였다.
 
 ## Tech Stack
 - Next.js
