@@ -30,6 +30,7 @@ qr 코드로 프로세서를 만들 때 해당 qr 이미지를 분산형 데이�
 - <img src="https://img.shields.io/badge/NFC API-002E5F?style=for-the-badge&logo=NFC&logoColor=white">
 - <img src="https://img.shields.io/badge/Cometh-11116D?style=for-the-badge&logo=TypeSrcript&logoColor=white">
 - <img src="https://img.shields.io/badge/Tableland-000000?style=for-the-badge&logo=TypeSrcript&logoColor=white">
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 
 
 
