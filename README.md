@@ -1,6 +1,6 @@
 ![nebula](https://github.com/ETHGlobal-Online-ChainWave/Nebula/assets/59263564/0d16fbd6-351b-4f98-8144-02c1dc33b6a1)
 
-# EARTH Overview
+# 🌏EARTH Overview
 https://youtu.be/BiPv0tLxyPM?si=PbNzWvl_Dlev0l_w
 
 ### 😯무엇을 개발하였나?
@@ -15,14 +15,14 @@ NFC를 활용한 지갑과 로그인하는 시스템, 거래 생성과 승인을
 ### 🙂어떤 장점이 있는가?
 이 시스템은 NFC 카드를 사용한 오프라인 결제를 원활하게 하여 매장 내 구매와 오프라인 행사 참여를 더욱 쉽게 해준다. 또한 거래를 생성하고 승인하는 데 있어 QR 코드를 사용하여 사용자의 수작업을 줄여 프로세스를 간소화했다. 이 기능은 실제 소매 구매, 오프라인 이벤트 및 QR 코드가 사용되는 다양한 상황에서 매우 유용하다는 것을 입증할 수 있다.
 
-## 기술 소
+## ⚡기술 소개 
 주요 포인트는 NFC, QRCODE, Cometh SDK, Tableland, EIP 681이다.
 Cometh는 처음 사용자가 web3를 적용하여 가스비 제로로 지갑을 쉽게 만들고 처리할 수 있도록 한다.
 NFC 웹 api를 이용하여 NFC 태그를 하여 지갑을 생성하고 로그인한다.
 qr 코드로 프로세서를 만들 때 해당 qr 이미지를 분산형 데이터베이스 테이블에 저장하여 해당 qr 트랜잭션을 빼냈다.
 거래 요청을 QR코드로 변환해주는 EIP-681을 사용해 편의성을 높였다.
 
-## 기술 스택
+## ✅기술 스택
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white">
@@ -33,7 +33,7 @@ qr 코드로 프로세서를 만들 때 해당 qr 이미지를 분산형 데이�
 
 
 
-## Start
+## 🚩Start
 
 Set you Cometh API KEY in the following env var:
 
