@@ -23,14 +23,13 @@ qr 코드로 프로세서를 만들 때 해당 qr 이미지를 분산형 데이�
 거래 요청을 QR코드로 변환해주는 EIP-681을 사용해 편의성을 높였다.
 
 ## Tech Stack
-- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-- <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-- <img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white">
-- <img src="https://img.shields.io/badge/ethers.js-1B1BAD?style=for-the-badge&logo=ethers.js&logoColor=white">
-- <img src="https://img.shields.io/badge/NFC API-002E5F?style=for-the-badge&logo=NFC&logoColor=white">
-- <img src="https://img.shields.io/badge/Cometh-11116D?style=for-the-badge&logo=TypeSrcript&logoColor=white">
-- <img src="https://img.shields.io/badge/Tableland-000000?style=for-the-badge&logo=TypeSrcript&logoColor=white">
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white">
+<img src="https://img.shields.io/badge/ethers.js-1B1BAD?style=for-the-badge&logo=ethers.js&logoColor=white">
+<img src="https://img.shields.io/badge/NFC API-002E5F?style=for-the-badge&logo=NFC&logoColor=white">
+<img src="https://img.shields.io/badge/Cometh-11116D?style=for-the-badge&logo=TypeSrcript&logoColor=white">
+<img src="https://img.shields.io/badge/Tableland-000000?style=for-the-badge&logo=TypeSrcript&logoColor=white">
 
 
 
