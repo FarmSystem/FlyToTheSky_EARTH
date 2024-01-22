@@ -1,5 +1,5 @@
 {
-  "name": "marketplace-demo",
+  "name": "marketplace-demo", 
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-  },
+  }, 
   "dependencies": {
     "@babel/plugin-syntax-typescript": "^7.22.5",
     "@babel/preset-react": "^7.22.15",
