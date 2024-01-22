@@ -1,12 +1,12 @@
 const defaultTheme = require("tailwindcss/defaultTheme");
-const plugin = require("tailwindcss/plugin");
+const plugin = require("tailwindcss/plugin"); 
 
 // TODO: 개발하면서 spacing 추가
 const spacing = [...[...Array(1001).keys()]];
 
 const convertSpacing = (spacing) =>
   [...new Set(spacing)].reduce((res, space) => {
-    res[space] = `${space}px`;
+    res[space] = `${space}px`; 
     return res;
   }, {});
 const convertSpacingWithoutPx = (spacing) =>
