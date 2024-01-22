@@ -1,5 +1,5 @@
 /* eslint-disable no-param-reassign */
-const path = require("path");
+const path = require("path"); 
 
 const includedDirs = [path.resolve(__dirname, "src")];
 
