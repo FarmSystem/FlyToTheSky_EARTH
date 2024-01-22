@@ -7,7 +7,7 @@
 // https://w3c.github.io/web-nfc/#actual-idl-index
 
 interface Window {
-  NDEFMessage: NDEFMessage;
+  NDEFMessage: NDEFMessage; 
 }
 declare class NDEFMessage {
   constructor(messageInit: NDEFMessageInit);
