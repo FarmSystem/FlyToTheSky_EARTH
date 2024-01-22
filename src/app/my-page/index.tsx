@@ -21,7 +21,7 @@ interface Props {
 
 export const MyPage = ({ isSuccess }: Props) => {
   const wrapperRef = useRef<HTMLDivElement>(null);
-  const { wallet } = useWalletContext();
+  const { wallet } = useWalletContext(); 
   const { nfcSerialNumber } = useWalletAuth();
   const [walletAddress, setWalletAddress] = useState<string | null>(null);
 
